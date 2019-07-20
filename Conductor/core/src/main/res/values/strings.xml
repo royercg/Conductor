@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">core</string>
+    <string name="message_need_permission">Necesita los permisos</string>
+</resources>
